@@ -1,4 +1,4 @@
-# Trader Performance vs Market Sentiment — Hyperliquid × Fear & Greed Index
+# Trader Performance vs Market Sentiment — Hyperliquid × Fear and Greed Index
 
 ## Overview
 
